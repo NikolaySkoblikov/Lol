@@ -1,16 +1,16 @@
 @media screen and (max-width: 1320px) {
 	.cosmetic {
-		padding-top     : 60px;
-		padding-bottom  : 60px;
+		padding-top     : 70px;
+		padding-bottom  : 70px;
 		background-image: none;
 	}
 
 	.maps__wrapper {
-		height: 360px;
+		height: 380px;
 	}
 
 	.instagram__grallery-wrapper {
-		max-width   : 600px;
+		max-width   : 700px;
 		margin-left : auto;
 		margin-right: auto;
 	}
@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 1020px) {
 	h3 {
-		margin-bottom: 20px !important;
+		margin-bottom: 30px !important;
 	}
 
 	.face__cleaning,
@@ -28,8 +28,8 @@
 	.instagram__grallery,
 	.cosmetic,
 	.contacts {
-		padding-top   : 30px;
-		padding-bottom: 30px;
+		padding-top   : 40px;
+		padding-bottom: 40px;
 	}
 
 	.header__text-wrapper {
@@ -47,11 +47,11 @@
 
 	.price,
 	.instagram__grallery {
-		padding-bottom: 50px;
+		padding-bottom: 60px;
 	}
 
 	.questions {
-		padding-bottom: 0px !important;
+		padding-bottom: 1px !important;
 	}
 
 	.header__right-wrapper {
@@ -67,7 +67,7 @@
 		align-items   : left;
 		margin-left   : auto;
 		margin-right  : auto;
-		width         : 300px;
+		width         : 400px;
 	}
 
 	.face__cleaning-left p {
@@ -76,7 +76,7 @@
 
 	.face__cleaning-pic {
 		order        : 1;
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 	}
 
 	.face__cleaning-left {

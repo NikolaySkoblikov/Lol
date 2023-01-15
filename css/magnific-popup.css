@@ -29,7 +29,7 @@
   height: 100%;
   left: 0;
   top: 0;
-  padding: 0 8px;
+  padding: 0 9px;
   box-sizing: border-box;
 }
 
@@ -105,9 +105,9 @@
   width: auto;
   text-align: center;
   margin-top: -0.8em;
-  left: 8px;
-  right: 8px;
-  z-index: 1044;
+  left: 9px;
+  right: 9px;
+  z-index: 1050;
 }
 
 .mfp-preloader a {
@@ -136,7 +136,7 @@ button.mfp-arrow {
   display: block;
   outline: none;
   padding: 0;
-  z-index: 1046;
+  z-index: 1050;
   box-shadow: none;
   touch-action: manipulation;
 }
@@ -147,16 +147,16 @@ button::-moz-focus-inner {
 }
 
 .mfp-close {
-  width: 44px;
-  height: 44px;
-  line-height: 44px;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
   position: absolute;
   right: 0;
   top: 0;
   text-decoration: none;
   text-align: center;
   opacity: 0.65;
-  padding: 0 0 18px 10px;
+  padding: 0 0 20px 10px;
   color: #FFF;
   font-style: normal;
   font-size: 28px;
@@ -165,7 +165,7 @@ button::-moz-focus-inner {
 
 .mfp-close:hover,
 .mfp-close:focus {
-  opacity: 1;
+  opacity: 2;
 }
 
 .mfp-close:active {
@@ -179,9 +179,9 @@ button::-moz-focus-inner {
 .mfp-image-holder .mfp-close,
 .mfp-iframe-holder .mfp-close {
   color: #FFF;
-  right: -6px;
+  right: -7px;
   text-align: right;
-  padding-right: 6px;
+  padding-right: 7px;
   width: 100%;
 }
 
@@ -190,8 +190,8 @@ button::-moz-focus-inner {
   top: 0;
   right: 0;
   color: #CCC;
-  font-size: 12px;
-  line-height: 18px;
+  font-size: 15px;
+  line-height: 19px;
   white-space: nowrap;
 }
 
